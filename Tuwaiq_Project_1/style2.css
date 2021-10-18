@@ -1,0 +1,16 @@
+body{
+    background-color: #fff2e2;
+}
+
+div{
+    text-align: center;
+}
+
+#add{
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+height: 30%;
+width:30%;
+float: center;
+}

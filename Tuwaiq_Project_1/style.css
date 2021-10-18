@@ -1,0 +1,8 @@
+body{
+    
+    background-image: url(background.jpg);
+    
+    -ms-flex-align: center;
+    gap: 0;
+}
+
